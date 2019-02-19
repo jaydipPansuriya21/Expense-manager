@@ -1,5 +1,5 @@
 <?php
-require "cont.php";
+require "Connection/cont.php";
 require "second.php";
 session_start();
 $mob = $_SESSION['mob'];

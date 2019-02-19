@@ -1,15 +1,39 @@
 <html>
-	
+	<head>
+		<link rel="stylesheet" href="startCSS.css" type="text/css">
+	</head>
 
 	<body>
+<div class="box">
+		<form action="login.php" method="post"  id="myf2">
+	
+	<table width="400">
+		<tr>
+			<td class="Colwh"><label for="">Enter Mobile Number : </label></td>
+			<td align="bottom"><input type="number" max="9999999999" placeholder="Ex : 9865253641" name="txtMob" required="true"><br><br>
+			</td>
+		</tr>
+  <tr>
+  	<td class="Colwh"><label for="">Enter Password : </label></td>
+  	<td><input type="password" size="20" placeholder="Password" name="txtPwd" required="true"><br><br></td>
+  </tr>
 
-		<form action="login.php" method="post">
-		<label for="">Enter Mobile Number : </label>
-		<input type="number" max="1000000000" placeholder="9865253641" name="txtMob"><br><br>
-		<label for="">Enter Password : </label>
-		<input type="password" size="20" placeholder="Password" name="txtPwd"><br><br>
-		<input type="submit" value="Login">
-        </form>
-        <h3><a href="register.html">Create New Account</a> </h3>
+<tr>
+	
+	<td colspan="2" align="center"><input type="submit" value="   Login   " id="Sub" class="button"></td>
+</tr>
+<tr>
+	
+	<td colspan="2" align="center"><br><a href="register.html" class="Colbk font">Create New Account ? Click Me</a> </h3></td></tr>
+		
+</table>		
+		</form>
+        <h2 id="Info"></h2>
+        
+
+</div>    
+
+
+
 	</body>
 </html>

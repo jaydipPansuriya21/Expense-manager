@@ -62,21 +62,36 @@ if(true){
 ?>
 
 <html>
-<body>
+<head>
+    <link rel="stylesheet" href="startCSS.css" type="text/css">
+  </head>
+<body> 
+
 	<form action="" method="post" name="myform">
-		<label for="txtAmo">Amount : </label>
-		<input type="txtAmo" name="A">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
-	    <label for="txtDis" >Discription : </label>
-	
-         <input type="text" name="D" id="txtDis" size="50">
-		 <input type="submit" value="Insert">
-	</form>
+
+<table>
+<tr>
+  <td><label for="txtAmo">Amount : </label></td>
+  <td><input type="txtAmo" name="A" required="true">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br></td>
+
+</tr>
+<tr>
+  <td><label for="txtDis" >Discription : </label></td>
+  <td><input type="text" name="D" id="txtDis" size="50" required="true"></td>
+</tr>
+	   <tr>
+      <td colspan=""><br><input type="submit" value="   Insert  " class="button"></td> 
+      <td><br><button class="bt">Logout</button></td>
+     </tr>
+		 </table>	
+  </form>
 
 	
 
     <br><br>
-	<hr>
-	<table border="1" cellspacing="0" cellpadding="0" width="500">
+	<div class="data">
+	<table border="1" cellspacing="0" cellpadding="0" width="500" >
+      
 <?php
 		if($result->num_rows){
 ?>
@@ -114,18 +129,20 @@ if(true){
 
 	}
 ?>
-	</table>
 
+	</table>
+</div>
 	<form action="update.php" method="post" id="myform2">
 		<br><br><br>
 		 <label for="bala" >Current Balance In Your Pocket : </label> 
-    	 <input type="button" value = "<?php echo $CurBal ?>" id="bala" name="numBal"><br><br>
-    	<label for="newBAL">Add Money : </label>
+    	 <input type="button" value = "    <?php echo $CurBal ?>    " id="bala" name="numBal" class=""><br><br>
+    	<label for="newBAL">Add Money In  Pocket : </label>
     	 <input type="number" value="" name="newBal" id="newBAL">
-	     <input type="submit" value="UPDATE BALANCE" >
+	     <input type="submit" value="UPDATE BALANCE" class="button">
 	     <br><br><br>
 	     <p id="info"></p>
 	</form>
+
 	<script src="jqueryDev.js"></script>
 	<script>
 		$(function(){

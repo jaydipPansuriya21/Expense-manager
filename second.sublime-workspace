@@ -1,0 +1,633 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"P",
+				"pair\tArray<string>"
+			],
+			[
+				"Ra",
+				"Remain"
+			],
+			[
+				"in",
+				"indexOf\t(searchElement: mixed, fromIndex?: number) => number"
+			],
+			[
+				"A",
+				"ActuBal"
+			],
+			[
+				"cu",
+				"CurBal"
+			],
+			[
+				"new",
+				"newBAL"
+			],
+			[
+				"Cur",
+				"CurBal"
+			],
+			[
+				"Cu",
+				"CurBal"
+			],
+			[
+				"row",
+				"rows"
+			],
+			[
+				"C",
+				"CurBal"
+			],
+			[
+				"ba",
+				"balan"
+			],
+			[
+				"ro",
+				"rows"
+			],
+			[
+				"user_",
+				"user_id"
+			],
+			[
+				"num",
+				"num_rows"
+			],
+			[
+				"my",
+				"mysql_error"
+			],
+			[
+				"mysql_",
+				"mysql_errno"
+			],
+			[
+				"mo",
+				"mob"
+			],
+			[
+				"ma",
+				"maxlength\tAttr"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"cell",
+				"cellpadding\tAttr"
+			],
+			[
+				"error_",
+				"cubrid_error_code"
+			],
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"txt",
+				"txtAmo"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"hear",
+				"header"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"bor",
+				"border\tstring"
+			],
+			[
+				"bordercolo",
+				"borderColor\tstring"
+			],
+			[
+				"bo",
+				"borderColor\tstring"
+			],
+			[
+				"get",
+				"getElementById\t(elementId: string) => (HTMLElement | null)"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"err",
+				"error_reporting"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"fetch_Asso",
+				"cubrid_fetch_assoc"
+			],
+			[
+				"connect_err",
+				"maxdb_connect_error"
+			],
+			[
+				"he",
+				"he1"
+			],
+			[
+				"bt",
+				"bt1"
+			],
+			[
+				"set",
+				"setHours\t(hours: number, min?: number, sec?: number, ms?: number) => number"
+			],
+			[
+				"d",
+				"da\tnumber"
+			],
+			[
+				"cons",
+				"console\t{assert(condition: mixed, ...data: Array<any>): void; clear(): void; count(label: string): void; debug(...data: Array<any>): void; dir(...data: Array<any>): void; dirxml(...data: Array<any>): void; error(...data: Array<any>): void; _exception(...data: Array<any>): void; group(...data: Array<any>): void; groupCollapsed(...data: Array<any>): void; groupEnd(): void; info(...data: Array<any>): void; log(...data: Array<any>): void; profile(name: string): void; profileEnd(): void; table(tabularData: { [key: string]: any } | Array<{ [key: string]: any }> | Array<Array<any>>): void; time(label: string): void; timeEnd(label: string): void; timeStamp(label?: string): void; trace(...data: Array<any>): void; warn(...data: Array<any>): void; }"
+			],
+			[
+				"to",
+				"toString\t(radix?: number) => string"
+			],
+			[
+				"con",
+				"convert"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"st",
+				"step\tAttr"
+			],
+			[
+				"te",
+				"teUserName"
+			],
+			[
+				"nova",
+				"novalidation"
+			],
+			[
+				"la",
+				"x-large\tfont-size"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"test",
+				"text-shadow\tproperty"
+			],
+			[
+				"text-de",
+				"text-decoration\tproperty"
+			],
+			[
+				"text",
+				"text-indent\tproperty"
+			],
+			[
+				"word",
+				"word-spacing\tproperty"
+			],
+			[
+				"pre",
+				"pre-wrap\twhite-space"
+			],
+			[
+				"no",
+				"nowrap\twhite-space"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"h",
+				"hide\tempty-cells"
+			],
+			[
+				"po",
+				"position\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"o",
+				"onclick\tAttr"
+			],
+			[
+				"b",
+				"bold\tfont-weight"
+			],
+			[
+				"tra",
+				"translateX()\ttransform"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"t",
+				"translateY()\ttransform"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"align-",
+				"align-content\tproperty"
+			],
+			[
+				"i",
+				"inline-block\tdisplay"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"ta",
+				"table-cell\tdisplay"
+			],
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"onmou",
+				"onmouseout\tAttr"
+			],
+			[
+				"onmouse",
+				"onmouseover\tAttr"
+			],
+			[
+				"onmo",
+				"onmouseover\tAttr"
+			],
+			[
+				"para",
+				"para"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"cha",
+				"changeColor"
+			],
+			[
+				"s",
+				"script"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 633.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jaydeep/Desktop/game2.html",
+		"/F/Desktop/DPFi/Test Js/Game1.html",
+		"/F/xampp/htdocs/ExpenseManager/second.php",
+		"/F/xampp/htdocs/ExpenseManager/register.php",
+		"/F/xampp/htdocs/ExpenseManager/login.php",
+		"/F/xampp/htdocs/ExpenseManager/register.html",
+		"/F/xampp/htdocs/ExpenseManager/index.html",
+		"/F/xampp/htdocs/ExpenseManager/update.php",
+		"/F/xampp/htdocs/ExpenseManager/se2.php",
+		"/F/xampp/htdocs/REtry/Connection/cont.php",
+		"/F/xampp/htdocs/REtry/second.php",
+		"/F/xampp/htdocs/REtry/index.php",
+		"/F/xampp/htdocs/ExpenseManager/OLD/Expense.php",
+		"/F/xampp/htdocs/ExpenseManager/Connection/cont.php",
+		"/F/xampp/htdocs/FirstPRO/smphpco.php",
+		"/F/Desktop/DPFi/Test Js/jquery/one.html",
+		"/F/xampp/htdocs/ExpenseManager/login.html",
+		"/F/xampp/htdocs/ExpenseManager/Index.html",
+		"/F/xampp/htdocs/ExpenseManager/Expense.php",
+		"/F/xampp/htdocs/ExpenseManager/OLD/index.html",
+		"/C/Users/Jaydeep/Desktop/gamequiz.html",
+		"/C/Users/Jaydeep/Desktop/Hello/first.html",
+		"/F/xampp/htdocs/FirstPhp/test.php",
+		"/C/Users/Jaydeep/Downloads/db.sql",
+		"/C/Users/Jaydeep/Desktop/quiz.css",
+		"/C/Users/Jaydeep/Desktop/quiz.js",
+		"/F/Desktop/DPFi/WTLAB/js/lab1bscr.js",
+		"/F/Desktop/DPFi/WTLAB/js/lab2.html",
+		"/F/Desktop/DPFi/WTLAB/js/lab1.html",
+		"/F/Desktop/DPFi/WTLAB/js/lab1Sci.js",
+		"/F/Desktop/DPFi/WTLAB/lab1.html",
+		"/F/xampp/htdocs/connectionMyToPhp/phpMysql.php",
+		"/C/Users/Jaydeep/Desktop/Inbox (495) - pansuriyajaydip21@gmail.com - Gmail.html",
+		"/F/xampp/htdocs/FirstPhp/lab8.html",
+		"/F/xampp/htdocs/Project/phperror/index.php",
+		"/F/xampp/htdocs/Project/connectionMyToPhp/second.php",
+		"/F/xampp/htdocs/Project/FirstPhp/test.php",
+		"/F/xampp/htdocs/FirstPhp/testphp.html",
+		"/F/xampp/htdocs/Project/FirstPhp/first.php",
+		"/F/xampp/htdocs/Project/FirstPhp/testphp.html",
+		"/F/xampp/htdocs/FirstPhp/first.php",
+		"/F/xampp/htdocs/connectionMyToPhp/second.php",
+		"/F/xampp/htdocs/FirstPhp/second.php",
+		"/C/Users/Jaydeep/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/F/xampp/htdocs/connectionMyToPhp/test.php",
+		"/C/Users/Jaydeep/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Jaydeep/Desktop/Test Js/first.php",
+		"/C/Users/Jaydeep/Desktop/Test Js/testphp.html",
+		"/C/Users/Jaydeep/Desktop/Test Js/sublimefirst.html",
+		"/C/Users/Jaydeep/Desktop/Test Js/test4scri.html",
+		"/C/Users/Jaydeep/Desktop/WTLAB/lab4.html",
+		"/C/Users/Jaydeep/Desktop/TestGit/index.html",
+		"/C/Users/Jaydeep/Desktop/WTLAB/lab4script.html",
+		"/C/Users/Jaydeep/Desktop/Test Js/jquery/one.html",
+		"/C/Users/Jaydeep/Desktop/WTLAB/lab8.html",
+		"/C/Users/Jaydeep/Desktop/WTLAB/lab8c.html",
+		"/C/Users/Jaydeep/Desktop/WTLAB/lab8b.html",
+		"/C/Users/Jaydeep/Desktop/WTLAB/lab8d.html",
+		"/C/Users/Jaydeep/Desktop/Test Js/calculator.html",
+		"/C/Users/Jaydeep/Desktop/crom.html",
+		"/C/Users/Jaydeep/Desktop/Game1.html",
+		"/C/Users/Jaydeep/Desktop/Test Js/test5script.html",
+		"/C/Users/Jaydeep/Desktop/Test Js/test3scrip.html",
+		"/C/Users/Jaydeep/Desktop/Test Js/test2script.js",
+		"/C/Users/Jaydeep/Desktop/calculator.html",
+		"/C/Users/Jaydeep/Desktop/test3scrip.html",
+		"/C/Users/Jaydeep/Desktop/test2script.js",
+		"/C/Users/Jaydeep/Desktop/testMyScript2.html",
+		"/C/Users/Jaydeep/Desktop/testMyScript.html",
+		"/C/Users/Jaydeep/Desktop/test4scri.html",
+		"/C/Users/Jaydeep/Desktop/WTLAB/lab7.html",
+		"/C/Users/Jaydeep/Desktop/WTLAB/lab6css.css",
+		"/C/Users/Jaydeep/Desktop/WTLAB/lab6.html",
+		"/C/Users/Jaydeep/Desktop/WTLAB/lab5script.css",
+		"/C/Users/Jaydeep/Desktop/WTLAB/lab5.html",
+		"/C/Users/Jaydeep/Desktop/WTLAB/lab4script.css",
+		"/C/Users/Jaydeep/Desktop/WTLAB/lab7css.css",
+		"/C/Users/Jaydeep/Desktop/WTLAB/lab7b.html",
+		"/C/Users/Jaydeep/Desktop/WTLAB/7c.html",
+		"/C/Users/Jaydeep/Desktop/WTLAB/7c.css",
+		"/C/Users/Jaydeep/Desktop/WTLAB/7b.css",
+		"/C/Users/Jaydeep/Desktop/WTLAB/7d.css",
+		"/C/Users/Jaydeep/Desktop/WTLAB/7d.html",
+		"/C/Users/Jaydeep/Desktop/WTLAB/lab7bcss.css",
+		"/C/Users/Jaydeep/Desktop/WTLAB/lab2.html",
+		"/C/Users/Jaydeep/Desktop/WTLAB/lab3.html",
+		"/C/Users/Jaydeep/Desktop/WTLAB/lab3ass.html",
+		"/C/Users/Jaydeep/Desktop/WTLAB/lab3script.css",
+		"/G/WT PRO/Game1.html",
+		"/G/Web Devlopment/CSS/Css/vertical.html",
+		"/C/Users/Jaydeep/Desktop/labmon.html",
+		"/C/Users/Jaydeep/Desktop/labmon2.html",
+		"/C/Users/Jaydeep/Desktop/centering.html",
+		"/C/Users/Jaydeep/Desktop/lab3ass.html",
+		"/C/Users/Jaydeep/Desktop/lab2.html",
+		"/C/Users/Jaydeep/Desktop/lab1.html",
+		"/C/Users/Jaydeep/Desktop/New@2/sublimefirst.html",
+		"/C/Users/Jaydeep/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/Jaydeep/Desktop/sublimefirst.html",
+		"/G/Web Devlopment/Html/A-10/f1.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ComputerSelector"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "second.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Jaydeep\\Desktop\\sublimefirst.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

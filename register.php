@@ -1,6 +1,7 @@
 <?php  
 error_reporting(0);
 require "Connection/cont.php";
+require "Cicurity/check.php";
 session_start();
 $unam = $_POST['txtUaNA'];
 $pwd = $_POST['txtPwd'];
@@ -11,7 +12,7 @@ if(!empty($unam) && !empty($pwd) && !empty($mob)){
     
      $exist = $db->query("select user_id from user where mobile = $mob");
      if($exist->num_rows){
-         echo "This mobile no is already registered ..... , Go Back";
+         echo "This mobile number is already registered ..... , Go Back and try with different Number";
      }
      else{
    
@@ -38,10 +39,7 @@ if(!empty($unam) && !empty($pwd) && !empty($mob)){
    
  }
 
-else
-{
-	echo " Go Back and , Fill all detail";
-}
+
 
 
 

@@ -1,15 +1,33 @@
 <html>
 	
-
+<head>
+		<link rel="stylesheet" href="startCSS.css" type="text/css">
+	
+</head>
 	<body>
+<div class="box">
 		<form action="register.php" method="post">
-		<label for="" >UserName : </label>	
-		<input type="text" size="20" placeholder="UserName" name="txtUaNA"><br><br>
-		<label for="">Mobile No : </label>
-		<input type="number" max="1000000000" placeholder="9865253641" name="txtMob"><br><br>
-		<label for="">Password : </label>
-		<input type="password" size="20" placeholder="Password" name="txtPwd"><br><br>
-		<input type="submit" value="SignUp">
-        </form>
+			<table>
+			<tr>
+					<td class="Colwh"><label for="" >UserName : </label></td>
+					<td><input type="text" size="20" placeholder="UserName" name="txtUaNA" required="true"><br><br></td>
+			</tr>
+			<tr>
+					<td class="Colwh"><label for="">Mobile No : </label></td>
+					<td><input type="number" max="9999999999" placeholder="Ex : 9865253641" name="txtMob" required="true"><br><br></td>
+			</tr>	
+			<tr>
+					<td class="Colwh"><label for="">Password : </label></td>
+					<td><input type="password" size="20" placeholder="Password" name="txtPwd" required="true"><br><br></td>
+			</tr>	
+			<tr>
+					<td colspan="2" align="center"><input type="submit" value="   SignUp  " class="button"></td>
+					
+			</tr>	
+				
+			</table>
+		
+	   </form>
+	   </div>
 	</body>
 </html>
